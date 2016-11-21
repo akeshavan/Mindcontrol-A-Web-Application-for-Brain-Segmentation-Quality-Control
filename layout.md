@@ -2,7 +2,7 @@ abstract_Insert_abstract_here__.tex
 untitled.tex
 section_Materials_and_Methods_Mindcontrol__.tex
 figures/mindcontrol_meteor/mindcontrol_meteor.png
-Descriptive_statistics_are_visualized_using__.tex
+The_user_interface_consists_of__.tex
 subsection_Applications_begin_itemize_item__.tex
 section_Results_begin_itemize_item__.tex
 section_Discussion_begin_itemize_item__.tex
