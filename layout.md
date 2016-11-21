@@ -5,6 +5,7 @@ figures/mindcontrol_meteor/mindcontrol_meteor.png
 The_user_interface_consists_of__.tex
 figures/mc_dashboard01/mc_dashboard01.png
 The_filters_or_queries_can__.tex
+Descriptive_statistics_are_visualized_using__.tex
 begin_itemize_item_papaya_annotating__.tex
 subsection_Applications_begin_itemize_item__.tex
 section_Results_begin_itemize_item__.tex
