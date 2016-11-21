@@ -1,4 +1,3 @@
-abstract_Insert_abstract_here__.tex
 untitled.tex
 section_Materials_and_Methods_Mindcontrol__.tex
 figures/mindcontrol_meteor/mindcontrol_meteor.png
