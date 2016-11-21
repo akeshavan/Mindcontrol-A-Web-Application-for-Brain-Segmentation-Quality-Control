@@ -7,7 +7,7 @@ figures/mc_dashboard01/mc_dashboard01.png
 figures/mc_dashboard02_query/mc_dashboard02_query.png
 Descriptive_statistics_are_visualized_using__.tex
 figures/mc_segmentationview/mc_segmentationview.png
-begin_itemize_item_papaya_annotating__.tex
+The_imaging_view_is_shown__.tex
 figures/mc_annotate/mc_annotate.png
 figures/mc_edit/mc_edit.png
 subsection_Applications_begin_itemize_item__.tex
