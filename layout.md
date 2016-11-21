@@ -3,6 +3,7 @@ untitled.tex
 section_Materials_and_Methods_Mindcontrol__.tex
 figures/mindcontrol_meteor/mindcontrol_meteor.png
 The_user_interface_consists_of__.tex
+figures/mc_dashboard01/mc_dashboard01.png
 begin_itemize_item_papaya_annotating__.tex
 subsection_Applications_begin_itemize_item__.tex
 section_Results_begin_itemize_item__.tex
