@@ -9,6 +9,7 @@ Descriptive_statistics_are_visualized_using__.tex
 figures/mc_segmentationview/mc_segmentationview.png
 begin_itemize_item_papaya_annotating__.tex
 figures/mc_annotate/mc_annotate.png
+figures/mc_edit/mc_edit.png
 subsection_Applications_begin_itemize_item__.tex
 section_Results_begin_itemize_item__.tex
 section_Discussion_begin_itemize_item__.tex
