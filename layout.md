@@ -5,6 +5,7 @@ figures/mindcontrol_meteor/mindcontrol_meteor.png
 The_user_interface_consists_of__.tex
 figures/mc_dashboard01/mc_dashboard01.png
 figures/mc_segmentationview/mc_segmentationview.png
+figures/mc_histogram_brush/mc_histogram_brush.png
 figures/mc_dashboard02_query/mc_dashboard02_query.png
 Descriptive_statistics_are_visualized_using__.tex
 The_imaging_view_is_shown__.tex
