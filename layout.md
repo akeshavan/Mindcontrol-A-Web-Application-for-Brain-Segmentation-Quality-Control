@@ -1,6 +1,6 @@
 abstract_Insert_abstract_here__.tex
 untitled.tex
-section_Materials_and_Methods_subsection__.tex
+section_Materials_and_Methods_Mindcontrol__.tex
 section_Results_begin_itemize_item__.tex
 section_Discussion_begin_itemize_item__.tex
 section_Future_Directions_begin_itemize__.tex
