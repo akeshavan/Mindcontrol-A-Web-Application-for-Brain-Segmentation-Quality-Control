@@ -1,8 +1,11 @@
 \section{Materials and Methods}
 
+Mindcontrol was developed with several design constraints. Platform independence was essential so that quality control can occur on any computer or device, like a tablet. Because most tablets cannot store whole neuroimaging datasets, Mindcontrol requires cloud-based data storage. For efficient storage of annotations and voxel editing, Mindcontrol should only store the changes to files, rather than whole file information. We believe in efficient quality control for any type of neuroimaging software package, so Mindcontrol should be flexible to any file organization structure, with configurable "modules" that contain any type of descriptive statistics and 3D images. Mindcontrol configuration and database updates should require minimal Javascript knowledge, since Matlab/Octave, Python, R and C are primarily used for neuroimaging analysis.  
+
+
 \subsection{Implementation Details}
 
-Mindcontrol is built with Meteor \href{http://www.meteor.com}{http://www.meteor.com}
+Mindcontrol is built with Meteor (\href{http://www.meteor.com}{http://www.meteor.com}), which is a full-stack javascript web-development platform. Meteor features a build tool, a package manager, the convenience of using one langauge (javascript) to develop both the front- and back-end of the application, and a useful implementation of full-stack reactivity. Reactivity 
 
 \begin{itemize}
 \item papaya, d3, meteor
