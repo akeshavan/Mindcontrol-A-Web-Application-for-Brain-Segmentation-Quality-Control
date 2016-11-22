@@ -15,5 +15,5 @@ figures/mc_edit/mc_edit.png
 subsection_Applications_Mindcontrol_configurations_were__.tex
 section_Results_The_demo_of__.tex
 section_Discussion_Mindcontrol_is_a__.tex
-section_Future_Directions_begin_itemize__.tex
+section_Future_Directions_Mindcontrol_is__.tex
 section_Acknowledgements_begin_itemize_item__.tex
