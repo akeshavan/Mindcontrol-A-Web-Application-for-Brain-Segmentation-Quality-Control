@@ -13,7 +13,7 @@ figures/mc_annotate/mc_annotate.png
 Annotations_of_points_and_curves__.tex
 figures/mc_edit/mc_edit.png
 subsection_Applications_Mindcontrol_configurations_were__.tex
-section_Results_begin_itemize_item__.tex
+section_Results_The_demo_of__.tex
 section_Discussion_begin_itemize_item__.tex
 section_Future_Directions_begin_itemize__.tex
 section_Acknowledgements_begin_itemize_item__.tex
