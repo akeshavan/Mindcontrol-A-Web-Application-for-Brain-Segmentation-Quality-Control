@@ -1,11 +1,13 @@
 \section{Discussion}
 
-Mindcontrol is a configurable neuroinformatics dashboard that links information visualization, descriptive stats, with scientific data visualization, MRI images and their overlays (segmentation or otherwise). The 3 demo configurations in this paper demonstrate the link between MRI quality metrics and raw data, the link between Freesurfer regional volumes and segmentation quality, and the link between antsCortical Thickness summary statistics and segmentation/thickness estimates on the volume. The platform is configurable, open-source, and software/pipeline agnostic, enabling researchers to configure it to their particular analyses. The dashboard allows researchers to assign editing tasks to others, who can then perform edits on the app itself. 
+Mindcontrol is a configurable neuroinformatics dashboard that links information visualization, descriptive stats, with scientific data visualization, MRI images and their overlays (segmentation or otherwise). The three example configurations in this report demonstrate the link between MRI quality metrics and raw data, the link between Freesurfer regional volumes and segmentation quality, and the link between antsCortical Thickness summary statistics and segmentation/thickness estimates on the volume. The platform is configurable, open-source, and software/pipeline agnostic, enabling researchers to configure it to their particular analyses. The dashboard allows researchers to assign editing tasks to others, who can then perform edits on the app itself. 
 
 There have been considerable efforts in this field to ensure data quality on a large scale. The human connectome project's extensive informatics pipeline, which includes a database service, quality control procedures, and a data visualization platform, have been key to the project's success in collecting a large, high quality dataset \cite{Marcus_2013}. The Allen Brain Atlas offers a comprehensive genetic, neuroanatomical and connectivity web-based data exploration portal, linking an MRI viewer with data tables \cite{Sunkin_2012}. The open-source LORIS web-based data management system integrates an imaging viewer with extensive quality control modules\cite{Das_2012}. Mindcontrol supplements these efforts by providing a lightweight and extensible data management and visualization system with the added ability to perform edits and curate annotations within the application. 
 
+Mindcontrol is currently being used at UCSF to imaging biomarker of multiple sclerosis (MS) disease progression in a 12-year longitudinal cohort of over 500 patients. MRI plays a crucial role in the diagnosis of MS due to its sensitivity to the white matter lesions characteristic of this disease \cite{ge2006multiple}.  Both the location and number of lesions are used in the diagnostic criteria of MS \cite{mcdonald2001recommended}; their evolution over time is considered a proxy for disease progression, and is closely monitored as a key outcome measure in clinical trials \cite{ge2000glatiramer}. Researchers have identified numerous imaging biomarkers of disease progression, including cortical atrophy \cite{fisher2008gray} and sensitive lesion quantification methods from FLAIR sequences \cite{Schmidt_2012}. Currently, Mindcontrol is being used as a data management dashboard and a quality control system for pial surface editing of Freesurfer outputs, and the identification of multiple sclerosis lesions.
+
 \begin{itemize}
-\item FSL has a thing for each output
+
 \item Freesurfer has a pretty involved thing
     \begin{itemize}
     \item Useful for:
@@ -13,7 +15,8 @@ There have been considerable efforts in this field to ensure data quality on a l
     \item fMRI pipeline intermediates
     \item Checking a huge amount of files w/ lots of people
     \end{itemize}
-\item uses in our MS lab
+\item uses in our MS lab: dura editing, lesion segmentation toolbox + manual intervention
+
 \end{itemize}
 
 
