@@ -3,6 +3,7 @@ untitled.tex
 section_Software_Design_and_Implementation__.tex
 figures/mindcontrol_meteor/mindcontrol_meteor.png
 figures/mindcontrol_meteor (3)/mindcontrol_meteor (3).png
+figures/mindcontrol_meteor (4)/mindcontrol_meteor (4).png
 The_user_interface_consists_of__.tex
 figures/mc_dashboard01/mc_dashboard01.png
 figures/mc_segmentationview/mc_segmentationview.png
