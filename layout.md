@@ -1,6 +1,6 @@
 abstract.tex
 untitled.tex
-section_Materials_and_Methods_Mindcontrol__.tex
+section_Software_Design_and_Implementation__.tex
 figures/mindcontrol_meteor/mindcontrol_meteor.png
 The_user_interface_consists_of__.tex
 figures/mc_dashboard01/mc_dashboard01.png
