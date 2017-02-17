@@ -12,6 +12,7 @@ The_imaging_view_is_shown__.tex
 figures/mc_annotate/mc_annotate.png
 Annotations_of_points_and_curves__.tex
 figures/mc_edit/mc_edit.png
+subsection_Configuration_Details_Mindcontrol_can__.tex
 section_Examples_Applications_Mindcontrol_configurations__.tex
 section_Discussion_Mindcontrol_is_a__.tex
 section_Future_Directions_Mindcontrol_is__.tex
