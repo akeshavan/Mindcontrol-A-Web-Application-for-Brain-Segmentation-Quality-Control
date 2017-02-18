@@ -9,7 +9,6 @@ figures/mc_histogram_brush/mc_histogram_brush.png
 figures/mc_dashboard02_query/mc_dashboard02_query.png
 Descriptive_statistics_are_visualized_using__.tex
 The_imaging_view_is_shown__.tex
-figures/Mindcontrol-annotate/Mindcontrol-annotate.png
 figures/Mindcontrol-annotate1/Mindcontrol-annotate1.png
 Annotations_of_points_and_curves__.tex
 figures/Mindcontrol-erase/Mindcontrol-erase.png
