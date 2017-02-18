@@ -4,6 +4,7 @@ section_Software_Design_and_Implementation__.tex
 figures/mindcontrol_meteor (5)/mindcontrol_meteor (5).png
 subsection_Client_Side_Features_The__.tex
 figures/mc_dashboard01/mc_dashboard01.png
+figures/Mindcontrol-dashboard1/Mindcontrol-dashboard1.png
 figures/mc_segmentationview/mc_segmentationview.png
 figures/mc_histogram_brush/mc_histogram_brush.png
 figures/mc_dashboard02_query/mc_dashboard02_query.png
