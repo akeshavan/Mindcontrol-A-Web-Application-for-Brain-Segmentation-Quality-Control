@@ -6,6 +6,7 @@ subsection_Client_Side_Features_The__.tex
 figures/Mindcontrol-dashboard1/Mindcontrol-dashboard1.png
 figures/Mindcontrol-qcView/Mindcontrol-qcView.png
 figures/mc_histogram_brush/mc_histogram_brush.png
+figures/Mindcontrol-brush_combined/Mindcontrol-brush_combined.png
 figures/mc_dashboard02_query/mc_dashboard02_query.png
 Descriptive_statistics_are_visualized_using__.tex
 The_imaging_view_is_shown__.tex
