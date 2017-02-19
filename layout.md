@@ -5,7 +5,6 @@ figures/mindcontrol_meteor_diagram/mindcontrol_meteor_diagram.png
 subsection_Client_Side_Features_The__.tex
 figures/Mindcontrol-dashboard1/Mindcontrol-dashboard1.png
 figures/Mindcontrol-qcView/Mindcontrol-qcView.png
-figures/Mindcontrol-brush_combined/Mindcontrol-brush_combined.png
 figures/Mindcontrol-brush_combined1/Mindcontrol-brush_combined1.png
 figures/Mindcontrol-filter_combined1/Mindcontrol-filter_combined1.png
 Descriptive_statistics_are_visualized_using__.tex
