@@ -1,7 +1,6 @@
 abstract.tex
 untitled.tex
 section_Software_Design_and_Implementation__.tex
-figures/mindcontrol_meteor_diagram/mindcontrol_meteor_diagram.png
 figures/mindcontrol_meteor_diagram1/mindcontrol_meteor_diagram1.png
 subsection_Client_Side_Features_The__.tex
 figures/Mindcontrol-dashboard1/Mindcontrol-dashboard1.png
