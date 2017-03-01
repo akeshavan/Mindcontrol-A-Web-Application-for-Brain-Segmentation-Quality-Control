@@ -2,4 +2,5 @@ version: 1
 multicolumn: false
 web-width: 500px
 align: center
+export-width: 1\columnwidth
 float: h!
